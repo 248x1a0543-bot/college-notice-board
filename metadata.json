@@ -1,0 +1,6 @@
+{
+  "name": "CampusBeacon - College Notice Board",
+  "description": "An Android college notice board app with department filtering, persistent on-device notice posting, and full detail views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
